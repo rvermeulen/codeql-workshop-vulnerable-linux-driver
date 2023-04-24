@@ -1,0 +1,6 @@
+---
+library: true
+name: common
+version: 0.0.1
+dependencies:
+  codeql/cpp-all: 0.7.0

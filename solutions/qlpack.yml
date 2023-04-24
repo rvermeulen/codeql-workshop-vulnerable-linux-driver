@@ -3,4 +3,4 @@ library: false
 name: solutions
 version: 0.0.1
 dependencies:
-  codeql/cpp-all: 0.7.0
+  common: "*"
